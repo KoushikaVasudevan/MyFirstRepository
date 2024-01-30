@@ -1,1 +1,1 @@
-# MyFirstRepository
+# MyFirstRepository - Koushika's first GitHub repository.
